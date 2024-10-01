@@ -1,6 +1,6 @@
 -  Hi, I’m @Pradeep4851
+-  I’m currently working as Software Developer Intern at Sreemaan Technologies
 -  I’m interested in software domain
--  I’m currently learning Java FullStack
 -  I’m looking to get an job opportunity in any software company based on my skills and knowledge
 -  I'm willing to relocate any place
 -  Contact me with email :- mallelapradeep4851@gmail.com 
